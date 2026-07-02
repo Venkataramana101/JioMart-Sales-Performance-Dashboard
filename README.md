@@ -128,15 +128,15 @@ Focuses on city-wise revenue analysis, delivery performance, regional KPIs, stat
 ## 📷 Dashboard Screenshots
 ### 🏠 Executive Sales Overview
 
-*()*
+*(https://github.com/Venkataramana101/JioMart-Sales-Performance-Dashboard/blob/main/Executive%20Overview%20Snapshot.png)*
 
 ### 📦 Product Performance Analysis
 
-*(Add Screenshot Here)*
+*(https://github.com/Venkataramana101/JioMart-Sales-Performance-Dashboard/blob/main/Product%20Performance.png)*
 
 ### 📍 Regional Sales Insights
 
-*(Add Screenshot Here)*
+*(https://github.com/Venkataramana101/JioMart-Sales-Performance-Dashboard/blob/main/Regional%20Sales%20Insights.png)*
 
 ---
 
